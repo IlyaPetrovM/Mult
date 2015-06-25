@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cartoon maker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_path">/Pictures/mult</string>
+    <string name="loop">Play in lop - on</string>
+    <string name="loopoff">Play in loop - off</string>
+</resources>
